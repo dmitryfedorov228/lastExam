@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('https://cdn.wallpapersafari.com/46/74/L1TZAn.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+*{
+    text-align: center;
+}
+ul{
+    padding: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.actions_wrap{
+    margin-bottom: 35px;
+}
+ul{
+    text-decoration: none;
+}
